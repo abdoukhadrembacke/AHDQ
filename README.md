@@ -34,3 +34,8 @@ Each file name includes the style prefix followed by a unique number (e.g., dmn_
 
 # **Future Expansions:**
 We plan to expand this dataset by adding more styles of handwritten Quranic text from the Wolof and others willing communities, further increasing the diversity of handwriting available for analysis. The Quran was chosen for this project because it offers a large dataset of over 400,000 characters, which is highly beneficial for deep learning tasks. This dataset size allows for the training of robust models capable of recognizing various handwriting styles and can serve as a valuable resource for researchers and developers in the field of Arabic handwriting recognition.
+
+# **Citation:**
+If you use this dataset in your research or projects, please cite it as follows:
+
+**XIDMA_AI**. (2024). AHDQ (Arabic Handwriting Dataset from Quran): Comprehensive Full Quran Handwriting Dataset for OCR. Available at: https://www.kaggle.com/datasets/abdoukhadrembacke/ahdq-arabic-handwriting-dataset-from-quran

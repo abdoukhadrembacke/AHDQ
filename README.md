@@ -38,5 +38,14 @@ We plan to expand this dataset by adding more styles of handwritten Quranic text
 # **Citation:**
 If you use this dataset in your research or projects, please cite it as follows:
 
+@misc{abdou_khadre_mbacke_2024,
+	title={AHDQ: (Arabic Handwriting Dataset from Quran)},
+	url={https://www.kaggle.com/dsv/9497956},
+	DOI={10.34740/KAGGLE/DSV/9497956},
+	publisher={Kaggle},
+	author={Abdou Khadre Mbacke},
+	year={2024}
+}
+
 **XIDMA_AI**. (2024). AHDQ (Arabic Handwriting Dataset from Quran): Comprehensive Full Quran Handwriting Dataset for OCR. Available at: https://www.kaggle.com/datasets/abdoukhadrembacke/ahdq-arabic-handwriting-dataset-from-quran
 
